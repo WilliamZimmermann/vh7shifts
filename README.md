@@ -52,7 +52,7 @@ Just type the address that Python and Vagrant gives you.
 
 ## Versioning
 
-I'm using [GitHub](http://github.com/) for versioning. Please, use the master branch to test.
+I'm using [GitHub](http://github.com/) for versioning. Please, use the release/0.2.0 branch to test.
 
 ## Authors
 
