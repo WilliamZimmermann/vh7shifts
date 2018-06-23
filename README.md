@@ -1,8 +1,6 @@
 # vh7shifts
 VanHack Fair. App for 7 shifts.
 
-`# Project Title
-
 7Shifts Timetracker
 
 ## Getting Started
@@ -39,7 +37,7 @@ If all it's ok, it will give you the follow:
 Performing system checks...
 
 System check identified no issues (0 silenced).
-June 23, 2018 - 20:36:15
+June 23, 2018 - 17:36:15
 Django version 2.0.6, using settings 'pyvh7s.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
@@ -54,7 +52,7 @@ Just type the address that Python and Vagrant gives you.
 
 ## Versioning
 
-We use [GitHub](http://github.com/) for versioning. Please, use the release/0.2.0 to test as the system is not completed yet.
+I'm using [GitHub](http://github.com/) for versioning. Please, use the master branch to test.
 
 ## Authors
 
