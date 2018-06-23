@@ -39,7 +39,7 @@ class Location(models.Model):
         return self.address
 
 
-class LocationLabourSettings(models.Model):
+class AutoBreakRules(models.Model):
     # Since each location have his own labour settings, this model retain them
     location = models.ForeignKey(Location, on_delete=models.CASCADE)
     break_length = models.SmallIntegerField()
